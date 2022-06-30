@@ -11,7 +11,7 @@
 	<children>
 		<Label fx:id="textLabel" styleClass="label" text="Please set the time correctly"/>
 		<Label fx:id="timeLabel" styleClass="label" text="I'm not on time..."/>
-		<Label fx:id="stateLabel" styleClass="label" text="Diplay mode, please click the mode button to set the time"/>
+		<Label fx:id="stateLabel" styleClass="label" text="Display mode, please click the mode button to set the time"/>
 		<HBox styleClass="box">
 			<children>
 				<Label fx:id="hours" styleClass="time" text="00"/>
