@@ -11,6 +11,6 @@ public class StateDisplay extends AbstractState {
 	}
 	
 	public String toString() {
-		return "Diplay mode, please click the mode button to set the time";
+		return "Display mode, please click the mode button to set the time";
 	}
 }
